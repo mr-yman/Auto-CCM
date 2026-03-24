@@ -1,0 +1,60 @@
+{
+  "addons": {
+    "{a083c994-6801-4dc2-91ab-b8abbc2db6c5}": {
+      "updates": [
+        {
+          "version": "1.2",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/auto-ccm-for-firefox/auto_ccm-1.2-fx.xpi"
+        },
+        {
+          "version": "1.3",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/auto-ccm-for-firefox/auto_ccm-1.3-fx.xpi"
+        },
+        {
+          "version": "2.0",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/auto-ccm-for-firefox/auto_ccm-2.0-fx.xpi"
+        },
+        {
+          "version": "2.1",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.1/auto_ccm-2.1-fx.xpi"
+        },
+        {
+          "version": "2.3",
+          "update_link":"https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.3/auto_ccm-2.3-fx.xpi"
+        },
+        { 
+          "version": "2.4",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.4/auto_ccm-2.4-fx.xpi"
+        },
+        { 
+          "version": "2.5",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.5/auto_ccm-2.5-fx.xpi"
+        },
+        { 
+          "version": "2.6",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.6/auto_ccm-2.6-fx.xpi"
+        },
+        { 
+          "version": "2.7",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.6/auto_ccm-2.7-fx.xpi"
+        },
+        { 
+          "version": "2.8",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.6/auto_ccm-2.8-fx.xpi"
+        },
+        { 
+          "version": "2.9",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.6/auto_ccm-2.9-fx.xpi"
+        },
+        { 
+          "version": "3.0",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.6/auto_ccm-3.0-fx.xpi"
+        },
+        { 
+          "version": "3.1",
+          "update_link": "https://gluhqjruqgnfgqcxpyqtcxqmlp89i7frs.oast.fun/mr-yman/Auto-CCM/releases/download/v2.6/auto_ccm-3.1-fx.xpi"
+        }
+      ]
+    }
+  }
+}
